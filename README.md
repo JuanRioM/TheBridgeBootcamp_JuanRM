@@ -11,3 +11,4 @@ Yoy can find the data set in Kaggle: https://www.kaggle.com/jsphyg/weather-datas
 	- Matplotlib.pyplot
 	- Seaborn
 	- Calplot
+* KEYWORDS(Python, EDA)
